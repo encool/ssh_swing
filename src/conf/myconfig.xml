@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- const.xml -->
+<config>
+    <components>
+        <component>
+            <name>acs</name>
+            <url>192.168.128.132</url>
+            <port>1521</port>
+            <login>root</login>
+            <password>space</password>
+        </component>
+        <component>
+            <name>epg</name>
+            <url>192.168.128.132</url>
+            <port>1521</port>
+            <login>root</login>
+            <password>space</password>
+        </component>
+    </components>
+</config>
